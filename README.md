@@ -1,6 +1,8 @@
 # Real-Estate-Price-Prediction
 Predicting and visualization of  house prices based on certain parameters
 
+Veriler icin: https://www.kaggle.com/datasets/samwash94/dataset-for-house-price-analysis 
+
 # Emlak Fiyat Tahmini Projesi
 
 Bu proje, çoklu doğrusal regresyon (multiple linear regression) kullanarak emlak fiyatlarını tahmin eden ve sonuçları kapsamlı görselleştirmelerle sunan bir uygulamadır.
